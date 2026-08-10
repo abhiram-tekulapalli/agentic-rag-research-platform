@@ -1,0 +1,14 @@
+# Ignore the project's private Python environment.
+.venv/
+
+# Ignore Python's temporary cache folders.
+__pycache__/
+
+# Ignore compiled Python files.
+*.pyc
+
+# Ignore local environment variables and secret keys.
+.env
+
+# Ignore operating-system files created by Windows.
+Thumbs.db
